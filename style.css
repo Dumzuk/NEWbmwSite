@@ -1,0 +1,1025 @@
+a{
+    color: white;
+    text-decoration:none;
+   
+}
+*{
+    margin: 0%;
+}
+    
+header{
+    height: 300px;
+    width: 100%;
+    float: left;
+    
+    
+    
+}
+header img{
+    
+    margin-left: 7px;
+    float: right;
+    display: flex;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 0;
+    border-bottom-width: 4px;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+    position: relative;
+    color: #fff;
+    height: 99px;
+}
+.continer{
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+   
+    
+    
+}
+nav{
+float: right;
+
+}
+nav ul{
+    margin-top: 30px;
+    text-align: center;
+    
+    
+   
+}
+nav ul li{
+    display: inline-block;
+    margin: 50px;
+}
+nav ul li a{
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.sectiune_text{
+    width: 100%;
+    padding: 50px 0px;
+}
+.sectiune_text h2{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 2rem;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: #fff;
+    margin-top: 10px 0px;
+    margin-left: 50px;
+    line-height: 2.5rem;
+    font-weight: 300;
+}
+.sectiune_texte p{
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    font-size: 17px;
+    text-indent: 35px;
+    
+}
+.ix h2{
+
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+color:rgb(255, 255, 255);
+text-align: left;
+margin-top: 30px;
+margin-left: 50px;
+font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+}
+
+.ceva p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #fff;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+
+.bmw h3 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 50px;
+    color: #fff;
+}
+    
+   
+
+
+
+.film{
+    display: block;
+    width: 100%;
+    height: 563px;
+    background-color: white;
+   
+    text-align: center;
+   border: solid chocolate;
+   
+}
+footer{
+    width: 100%;
+    background-color: white;
+    padding: 50px 0px;
+}
+footer h1{
+    text-align: left;
+    font-size: 20px;
+    text-indent: 35px;
+    color: black;
+
+}
+.tabel{
+    width: 100% ;
+    background-color: ivory;
+    padding: 60px 0px;
+    
+}
+.tabel table{
+    width: 100%;
+    background-color:white;
+   
+   
+}
+.tabel table th{
+    text-align-last: left;
+    size: 20px;
+    padding: 5px 0px;
+    
+}
+.tabel table tr{
+   border-style: solid;
+    border-width: 30px;
+    border-color: black;
+    
+}
+
+.tabel table td{
+    color:black;
+    padding: 7px 0px;
+    
+    
+}
+.sectiune_text h4{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 30px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: white;
+    margin-top: 10px 0px;
+    margin-left: 50px;
+}
+.sectiune_text h3{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: white;
+    margin-top: 10px 0px;
+    margin-left: 50px;
+}
+footer  h3{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 15%;
+}
+footer p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 15%;
+}
+.casa h2{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.casa p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.marime p{
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    color: black;
+
+}
+.marime h4{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+footer img{
+    margin-top: 100%;
+    margin-left: 8%;
+}
+.lucrari h2{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+    
+}
+.lucrari h3{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 8%;
+    color: rgb(0, 0, 0);
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 300;
+
+
+}
+.lucrari p{
+    font-size: inherit;
+    line-height: inherit;
+    margin-bottom: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.size p{
+    font-size: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    margin-left:  8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.size b{
+    font-weight: 700;
+    line-height: inherit;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+   
+
+}
+.alb h2{
+    margin-top: 30px;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+
+}
+       
+
+
+
+.alb p{
+    font-size: inherit;
+    line-height: inherit;
+    margin-bottom: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    background: #fff;
+    color: #000000;
+    padding: 0;
+    margin: 0;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 150%;
+    position: relative;
+    cursor: default;
+    margin-left: 8%;
+   
+}
+
+  
+
+.automobile h2{
+    margin-top: 30px;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+
+}
+.automobile p{
+    font-size: inherit;
+    line-height: inherit;
+    margin-bottom: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    background: #fff;
+    color: #262626;
+    padding: 0;
+    margin: 0;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 150%;
+    position: relative;
+    cursor: default;
+    margin-left: 8%;
+}
+.alb b{
+    margin-left: 8%;
+}
+.marime b{
+    margin-left: 8%;
+}
+.marime p{
+    font-size: inherit;
+    line-height: inherit;
+    margin-bottom: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    background: rgb(255, 255, 255);
+    color: #000000;
+    padding: 0;
+    margin: 0;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 150%;
+    position: relative;
+    cursor: default;
+    margin-left: 8%;
+}
+    .lucrari h2 {
+        margin-top: 30px;
+        margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    padding-right: 15px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+
+
+    }
+    .lucrari p{
+        text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+    }
+    footer img{
+        margin-top: 50px;
+   margin: 60px;
+    margin-left: 7px;
+    float: right;
+
+    }
+    .electric h2{
+        margin-top: 30px;
+        margin-left: 8%;
+        font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+         line-height: 2rem;
+        font-weight: 300;
+
+    }
+    .electric p{
+        font-size: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    margin-left:  8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    }
+    .electric b{
+        font-weight: 700;
+        line-height: inherit;
+        margin-left: 8%;
+        font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+        color: rgb(0, 0, 0);
+    }
+    .electric p{
+        font-size: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+
+    }
+    
+    .calculatoare h2{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 17px;
+        font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+        letter-spacing: 1px;
+        color: black;
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    footer img{
+        margin-top: 50px;
+   margin: 60px;
+    margin-left: 7px;
+    float: right;}
+    .ghilimele h1{
+        font-size: 35px;
+        margin-left: 35% ;
+    }
+    .ghilimele p{
+        margin-top: 4rem;
+        display: block;
+    font-size: .875rem;
+    font-style: normal;
+    color: inherit;
+    margin-left: 35%;
+    }
+    .ghilimele h2{
+        margin-top: -7.11px;
+    margin-bottom: 28.96px;
+    font-size: 158.8px;
+    margin-left: 40%;
+    }
+    .masina h4 {
+        margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    }
+    .masina p{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 17px;
+        font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+        letter-spacing: 1px;
+        color: black;
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    .masina h2{
+        margin-top: -7.11px;
+    margin-bottom: 28.96px;
+    font-size: 158.8px;
+    margin-left: 40%;
+    }
+    .scris p{
+        font-size: 13px;
+        margin-left: 35%;
+        height: 3px;
+        
+    }
+     .fotovoltaic h2{
+        margin-top: 0;
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+        line-height: 2rem;
+        font-weight: 300;
+        margin-left: 8%;
+        font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+        }
+     
+     .sinteticc p{
+        margin-top: 0;
+        margin-bottom: 1rem;
+        font-size: 3rem;
+        
+        line-height: 2.5rem;
+        font-weight: 300;
+         margin-left: 8%;
+        font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+     }
+.fotovoltaic p{
+    text-align: left;
+        padding-bottom: 20px;
+        font-size: 17px;
+        font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+}
+.sintetic h1{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.sintetic h2{
+    margin-top: -7.11px;
+    margin-bottom: 28.96px;
+    font-size: 158.8px;
+    margin-left: 40%;
+}
+.sintetic p{
+    font-size: 13px;
+        margin-left: 35%;
+        height: 3px;
+}
+.ecologic h1{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    }
+
+.ecologic p{
+    text-align: left;
+        padding-bottom: 20px;
+        font-size: 17px;
+        font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+}
+.ecologic h2{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.reciclabil h1{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.reciclabil p{
+    text-align: left;
+        padding-bottom: 20px;
+        font-size: 17px;
+        font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+        letter-spacing: 1px;
+        color: black;
+        margin-top: 10px 0px;
+        margin-left: 8%;
+}
+.verde h1{
+    margin-top: -7.11px;
+    margin-bottom: 28.96px;
+    font-size: 158.8px;
+    margin-left: 40%;
+}
+.verde p{
+    font-size: 13px;
+        margin-left: 35%;
+        height: 3px;
+}
+.eoliana h1{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.eoliana p{
+    text-align: left;
+        padding-bottom: 20px;
+        font-size: 17px;
+        font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+        letter-spacing: 1px;
+        color: black;
+        margin-top: 10px 0px;
+        margin-left: 8%;
+}
+.fabrica h1{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.fabrica p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.fabrica h3{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.fabrica1 h1{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.fabrica1 p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.fabrica2 h1{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.fabrica2 p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.procent h1{
+    margin-top: -7.11px;
+    margin-bottom: 28.96px;
+    font-size: 158.8px;
+    margin-left: 40%;
+}
+.procent p{
+    font-size: 13px;
+        margin-left: 35%;
+        height: 3px;
+}
+.chimie h1{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.chimie h2{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.chimie p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.frunza h1{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.frunza p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.personal h1{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.personal p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.tableta h1{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.tableta p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.last h1{
+    margin-top: -7.11px;
+    margin-bottom: 28.96px;
+    font-size: 158.8px;
+    margin-left: 40%;
+}
+.last p{
+    font-size: 13px;
+        margin-left: 35%;
+        height: 3px;
+}
+.motor h2{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    
+
+}
+.motor h4{
+    display: inline-block;
+    margin-top: 0;
+    line-height: 35px;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+}
+.motor p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.jeep h1{
+    color: #262626;
+    font-family: "BMWTypeV2Regular-Bold", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-left: 5.5%;
+}
+
+.jeep p{
+    font-size: 14px;
+    line-height: 17px;
+    font-family: "BMWTypeV2Regular", sans-serif;
+
+
+    
+}
+.x5 h4{
+    display: inline-block;
+    margin-top: 0;
+    line-height: 35px;
+}
+.x5 p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.x5 b{
+    font-weight: 700;
+    line-height: inherit;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    margin-left: 8%;
+
+}
+.x5 h2{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 300;
+
+}
+.fata h2{
+    margin-bottom: 2rem;
+    margin-top: 0;
+    line-height: 1.2;
+    float: right;
+    width: 49%;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+
+}
+.ceva h2{
+    margin-bottom: 2rem;
+    margin-top: 0;
+    line-height: 1.2;
+    float: right;
+    width: 49%;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+
+}
+.ceva p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    margin-top: 10px 0px;
+    margin-left: 3.8%;
+}
+.fata h4{
+    display: inline-block;
+    margin-top: 0;
+    line-height: 35px;
+    margin-left: 8%;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+
+}
+.fata p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+.tabel{
+    width: 100% ;
+    background-color: ivory;
+    padding: 60px 0px;
+}
+.tabel table{
+    width: 100%;
+    background-color: rgb(143, 143, 175);
+   
+}
+.tabel table th{
+    text-align-last: left;
+    size: 20px;
+    padding: 5px 0px;
+}
+.tabel table tr{
+   border-style: solid;
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
+}
+.tabel table td{
+    color: rgb(255, 254, 254);
+    padding: 7.5px 0px;
+}
+.vechi p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 30px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: white;
+    margin-top: 10px 0px;
+    margin-left: 50px;
+    
+    
+    
+}
+.antic h2{
+    float: left;
+    margin-bottom: 2rem;
+    margin-top: 0;
+    line-height: 1.2;
+    float: right;
+    width: 49%;
+  
+}
+.antic h4{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-left: 8%;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 300;
+}
+.antic p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+    
+}
+.the h2{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px 0px;
+    margin-left: 8%;
+
+}
+.the p{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    margin-top: 10px 0px;
+    margin-left: 8%;
+}
+
